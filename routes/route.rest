@@ -1,0 +1,6 @@
+GET http://localhost:8080/User
+
+###
+
+
+GET http://localhost:8080/User/14
